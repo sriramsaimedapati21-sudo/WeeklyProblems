@@ -1,1 +1,1 @@
-# -WeeklyProblem
+# WeeklyProblem
